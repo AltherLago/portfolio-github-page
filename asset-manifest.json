@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-github-page/static/css/main.adaecbb1.css",
-    "main.js": "/portfolio-github-page/static/js/main.fdeee438.js",
+    "main.css": "/portfolio-github-page/static/css/main.cd76d4dd.css",
+    "main.js": "/portfolio-github-page/static/js/main.de84be52.js",
     "static/js/787.664a506a.chunk.js": "/portfolio-github-page/static/js/787.664a506a.chunk.js",
+    "static/media/profile-alther-1.png": "/portfolio-github-page/static/media/profile-alther-1.a600192f203f52ad90ad.png",
     "index.html": "/portfolio-github-page/index.html",
-    "main.adaecbb1.css.map": "/portfolio-github-page/static/css/main.adaecbb1.css.map",
-    "main.fdeee438.js.map": "/portfolio-github-page/static/js/main.fdeee438.js.map",
+    "main.cd76d4dd.css.map": "/portfolio-github-page/static/css/main.cd76d4dd.css.map",
+    "main.de84be52.js.map": "/portfolio-github-page/static/js/main.de84be52.js.map",
     "787.664a506a.chunk.js.map": "/portfolio-github-page/static/js/787.664a506a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adaecbb1.css",
-    "static/js/main.fdeee438.js"
+    "static/css/main.cd76d4dd.css",
+    "static/js/main.de84be52.js"
   ]
 }
