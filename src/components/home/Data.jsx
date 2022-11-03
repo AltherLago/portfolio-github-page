@@ -59,9 +59,8 @@ const Data = () => {
             <h3 className="home__subtitle">Web Developer</h3>
             <p className="home__description">Sou um proativo desenvolvedor residente em Maceió, e muito dedicado ao meu trabalho.</p>
 
-            <a className="button button--flex" href="#contact">
+            <a className="button button--flex" href="https://t.me/AltherLago">
                 Dê um oi
-                {/*TODO link*/}
                 <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
