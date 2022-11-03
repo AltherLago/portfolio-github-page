@@ -61,6 +61,7 @@ const Data = () => {
 
             <a className="button button--flex" href="#contact">
                 Dê um oi
+                {/*TODO link*/}
                 <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
