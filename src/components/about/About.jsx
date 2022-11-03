@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css"
 import AboutImg from "../../assets/about-1.png"
 import Info from "./Info"
-import CV from "../../assets/alther-lago-CV.pdf"
+import CV from "../../assets/alther-lago-CV-1.pdf"
 
 export default function About(){
     return(
