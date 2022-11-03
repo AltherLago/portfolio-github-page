@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-github-page/static/css/main.cd76d4dd.css",
-    "main.js": "/portfolio-github-page/static/js/main.de84be52.js",
+    "main.css": "/portfolio-github-page/static/css/main.8580a6e3.css",
+    "main.js": "/portfolio-github-page/static/js/main.0f508f2f.js",
     "static/js/787.664a506a.chunk.js": "/portfolio-github-page/static/js/787.664a506a.chunk.js",
     "static/media/profile-alther-1.png": "/portfolio-github-page/static/media/profile-alther-1.a600192f203f52ad90ad.png",
+    "static/media/about-1.png": "/portfolio-github-page/static/media/about-1.bee2aab0d42d53dfbb4f.png",
+    "static/media/alther-lago-CV-1.pdf": "/portfolio-github-page/static/media/alther-lago-CV-1.146b0da124958341a560.pdf",
     "index.html": "/portfolio-github-page/index.html",
-    "main.cd76d4dd.css.map": "/portfolio-github-page/static/css/main.cd76d4dd.css.map",
-    "main.de84be52.js.map": "/portfolio-github-page/static/js/main.de84be52.js.map",
+    "main.8580a6e3.css.map": "/portfolio-github-page/static/css/main.8580a6e3.css.map",
+    "main.0f508f2f.js.map": "/portfolio-github-page/static/js/main.0f508f2f.js.map",
     "787.664a506a.chunk.js.map": "/portfolio-github-page/static/js/787.664a506a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd76d4dd.css",
-    "static/js/main.de84be52.js"
+    "static/css/main.8580a6e3.css",
+    "static/js/main.0f508f2f.js"
   ]
 }
