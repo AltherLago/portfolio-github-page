@@ -6,12 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm install swiper`
-
-Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
-
-To learn Swiper, check out the [Swiper documentation](https://swiperjs.com/).
-
 ### `npm start`
 
 Runs the app in the development mode.\
