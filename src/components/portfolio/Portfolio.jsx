@@ -36,13 +36,14 @@ const Portfolio = () => {
                 }}
                 modules={[Pagination]}
             >
-                {Data.map(({id, image, title}) => {
+                {Data.map(({id, image, title, link}) => {
                     return (
                         <SwiperSlide className="portfolio__card" key={id}>
                             <img src={image} alt="i"
                             className='portfolio__img'/>
-                        {/*TODO link for project && gif*/}
                             <h3 class="portfolio__name">{title}</h3>
+                            {/*TODO link for project && gif*/}
+                            <a class="portfolio__link" href={link} target="_blank" rel="noreferrer">Demonstração &#8594;</a>
                         </SwiperSlide>
                     )
                 })}

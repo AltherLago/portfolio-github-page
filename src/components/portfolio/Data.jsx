@@ -6,7 +6,8 @@ export const Data = [
     {
         id: 0,
         image: Image0,
-        title: "Pokedex (API Pokemon)"
+        title: "Pokedex (API Pokemon)",
+        link: "https://altherlago.github.io/pokedex-react/"
     },
     {
         id: 1,

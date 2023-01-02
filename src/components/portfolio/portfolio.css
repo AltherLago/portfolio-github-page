@@ -21,6 +21,23 @@
     margin-bottom: var(--mb-0-25);
 }
 
+.portfolio__link {
+    font-size: var(--small-font-size);
+    font-weight: var(--font-normal);
+    margin-bottom: var(--mb-0-25);
+}
+
+a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: var(--font-semi-bold);
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
 /* Swiper Class */
 .swiper-pagination-bullet {
     background-color: var(--text-color) !important;
