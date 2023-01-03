@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-github-page/static/css/main.f0f4496c.css",
-    "main.js": "/portfolio-github-page/static/js/main.03f00c0a.js",
+    "main.css": "/portfolio-github-page/static/css/main.adb8fc09.css",
+    "main.js": "/portfolio-github-page/static/js/main.d132794b.js",
     "static/js/787.664a506a.chunk.js": "/portfolio-github-page/static/js/787.664a506a.chunk.js",
     "static/media/profile-alther-1.png": "/portfolio-github-page/static/media/profile-alther-1.a600192f203f52ad90ad.png",
     "static/media/2.png": "/portfolio-github-page/static/media/2.bd0be9ba6bee9cb3b7d4.png",
     "static/media/about-1.png": "/portfolio-github-page/static/media/about-1.bee2aab0d42d53dfbb4f.png",
+    "static/media/pokedex-portfolio.gif": "/portfolio-github-page/static/media/pokedex-portfolio.0b8e398e85dfa83ab105.gif",
     "static/media/3.png": "/portfolio-github-page/static/media/3.9329d3da5454d114f375.png",
     "static/media/alther-lago-CV-1.pdf": "/portfolio-github-page/static/media/alther-lago-CV-1.146b0da124958341a560.pdf",
     "index.html": "/portfolio-github-page/index.html",
-    "main.f0f4496c.css.map": "/portfolio-github-page/static/css/main.f0f4496c.css.map",
-    "main.03f00c0a.js.map": "/portfolio-github-page/static/js/main.03f00c0a.js.map",
+    "main.adb8fc09.css.map": "/portfolio-github-page/static/css/main.adb8fc09.css.map",
+    "main.d132794b.js.map": "/portfolio-github-page/static/js/main.d132794b.js.map",
     "787.664a506a.chunk.js.map": "/portfolio-github-page/static/js/787.664a506a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0f4496c.css",
-    "static/js/main.03f00c0a.js"
+    "static/css/main.adb8fc09.css",
+    "static/js/main.d132794b.js"
   ]
 }
